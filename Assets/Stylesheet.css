@@ -1,6 +1,6 @@
-h1 { color: aqua; }
+h1 { color: blue; }
 body {background-color: orange}
-p{color: red}
+p{color: blue}
 h2 {color: blue}
 primary-color-background {background-color: orange}
-body {background-image: url("../Assets/Pizza.jpg"); background-attachment: fixed;}}
+
