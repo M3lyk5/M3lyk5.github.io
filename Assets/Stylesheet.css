@@ -1,5 +1,6 @@
-h1 { color: aqua;
-}
+h1 { color: aqua; }
+body {background-color: orange}
 p{color: red}
-#heading-one {color: blue}
-#heading-two {color: green}
+h2 {color: blue}
+primary-color-background {background-color: orange}
+body{background-image: url("../Assets/Pizza.jpg")}
