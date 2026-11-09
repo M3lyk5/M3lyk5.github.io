@@ -3,4 +3,8 @@ body {background-color: orange}
 p{color: red}
 h2 {color: blue}
 primary-color-background {background-color: orange}
-body{background-image: url("../Assets/Pizza.jpg")}
+body {background-image: url("../Assets/Pizza.jpg")}
+body {mark {
+  background-color: #ff00ff; /* Custom background color */
+  color: white;             /* Custom text color */
+}}
