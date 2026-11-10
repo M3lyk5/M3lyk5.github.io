@@ -1,9 +1,11 @@
 h1 { color: blue;
-text-transform: uppercase;}
+text-transform: uppercase;font-family: "Redaction 50" Ariel, sans-serif;}
 body {background-color: orange}
 p{color: blue
 text-indent: 50px}
 h2 {color: blue}
 primary-color-background {background-color: orange}
 title{font-size: 300px}
-{font-family: "Redaction 50" Ariel, sans-serif;}
+a: hover {color: red
+text-decoration: underline
+background-color: yellow}
